@@ -11,6 +11,5 @@ fs.readFile(fileName, (err, data) => {
     }
 
     console.log(data.toString());
-    
 
 });
